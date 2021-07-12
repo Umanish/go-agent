@@ -16,7 +16,7 @@ import (
 
 	"github.com/aws/aws-lambda-go/events"
 	"github.com/aws/aws-lambda-go/lambdacontext"
-	"github.com/newrelic/go-agent/v3/internal"
+	"github.com/Umanish/go-agent/v3/internal"
 	newrelic "github.com/newrelic/go-agent/v3/newrelic"
 )
 

@@ -29,7 +29,7 @@ import (
 
 	"github.com/graphql-go/graphql"
 	"github.com/graphql-go/graphql/gqlerrors"
-	"github.com/newrelic/go-agent/v3/internal"
+	"github.com/Umanish/go-agent/v3/internal"
 	"github.com/newrelic/go-agent/v3/newrelic"
 )
 

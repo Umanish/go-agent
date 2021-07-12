@@ -9,8 +9,8 @@ import (
 	"testing"
 
 	redis "github.com/go-redis/redis/v7"
-	"github.com/newrelic/go-agent/v3/internal"
-	"github.com/newrelic/go-agent/v3/internal/integrationsupport"
+	"github.com/Umanish/go-agent/v3/internal"
+	"github.com/Umanish/go-agent/v3/internal/integrationsupport"
 	newrelic "github.com/newrelic/go-agent/v3/newrelic"
 )
 

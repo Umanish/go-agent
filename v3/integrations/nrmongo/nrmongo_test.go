@@ -7,9 +7,9 @@ import (
 	"context"
 	"testing"
 
-	"github.com/newrelic/go-agent/v3/internal"
-	"github.com/newrelic/go-agent/v3/internal/integrationsupport"
-	"github.com/newrelic/go-agent/v3/internal/sysinfo"
+	"github.com/Umanish/go-agent/v3/internal"
+	"github.com/Umanish/go-agent/v3/internal/integrationsupport"
+	"github.com/Umanish/go-agent/v3/internal/sysinfo"
 	newrelic "github.com/newrelic/go-agent/v3/newrelic"
 	"go.mongodb.org/mongo-driver/bson"
 	"go.mongodb.org/mongo-driver/bson/primitive"

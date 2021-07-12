@@ -75,8 +75,8 @@ import (
 	"fmt"
 
 	"github.com/newrelic/go-agent/v3/integrations/logcontext"
-	"github.com/newrelic/go-agent/v3/internal"
-	"github.com/newrelic/go-agent/v3/internal/jsonx"
+	"github.com/Umanish/go-agent/v3/internal"
+	"github.com/Umanish/go-agent/v3/internal/jsonx"
 	newrelic "github.com/newrelic/go-agent/v3/newrelic"
 	"github.com/sirupsen/logrus"
 )

@@ -9,8 +9,8 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/newrelic/go-agent/v3/internal"
-	"github.com/newrelic/go-agent/v3/internal/cat"
+	"github.com/Umanish/go-agent/v3/internal"
+	"github.com/Umanish/go-agent/v3/internal/cat"
 )
 
 // Bitfield values for the txnCrossProcess.Type field.

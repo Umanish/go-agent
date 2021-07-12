@@ -179,6 +179,6 @@
 // https://github.com/newrelic/go-agent/blob/master/_integrations/nrmicro/example/pubsub/main.go
 package nrmicro
 
-import "github.com/newrelic/go-agent/internal"
+import "github.com/Umanish/go-agent/internal"
 
 func init() { internal.TrackUsage("integration", "framework", "micro") }

@@ -10,8 +10,8 @@ import (
 	"testing"
 
 	"github.com/labstack/echo"
-	"github.com/newrelic/go-agent/internal"
-	"github.com/newrelic/go-agent/internal/integrationsupport"
+	"github.com/Umanish/go-agent/internal"
+	"github.com/Umanish/go-agent/internal/integrationsupport"
 )
 
 func TestBasicRoute(t *testing.T) {

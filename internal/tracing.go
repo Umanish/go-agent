@@ -11,10 +11,10 @@ import (
 	"net/url"
 	"time"
 
-	"github.com/newrelic/go-agent/internal/cat"
-	"github.com/newrelic/go-agent/internal/jsonx"
-	"github.com/newrelic/go-agent/internal/logger"
-	"github.com/newrelic/go-agent/internal/sysinfo"
+	"github.com/Umanish/go-agent/internal/cat"
+	"github.com/Umanish/go-agent/internal/jsonx"
+	"github.com/Umanish/go-agent/internal/logger"
+	"github.com/Umanish/go-agent/internal/sysinfo"
 )
 
 // MarshalJSON limits the number of decimals.
