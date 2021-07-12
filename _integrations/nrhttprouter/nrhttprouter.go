@@ -44,7 +44,7 @@ import (
 
 	"github.com/julienschmidt/httprouter"
 	newrelic "github.com/newrelic/go-agent"
-	"github.com/newrelic/go-agent/internal"
+	"github.com/Umanish/go-agent/internal"
 )
 
 func init() { internal.TrackUsage("integration", "framework", "httprouter") }

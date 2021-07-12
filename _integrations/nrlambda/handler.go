@@ -25,8 +25,8 @@ import (
 	"github.com/aws/aws-lambda-go/lambda/handlertrace"
 	"github.com/aws/aws-lambda-go/lambdacontext"
 	newrelic "github.com/newrelic/go-agent"
-	"github.com/newrelic/go-agent/internal"
-	"github.com/newrelic/go-agent/internal/integrationsupport"
+	"github.com/Umanish/go-agent/internal"
+	"github.com/Umanish/go-agent/internal/integrationsupport"
 )
 
 type response struct {

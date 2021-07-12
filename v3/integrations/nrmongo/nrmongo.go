@@ -35,7 +35,7 @@ import (
 	"regexp"
 	"sync"
 
-	"github.com/newrelic/go-agent/v3/internal"
+	"github.com/Umanish/go-agent/v3/internal"
 	newrelic "github.com/newrelic/go-agent/v3/newrelic"
 	"go.mongodb.org/mongo-driver/event"
 )

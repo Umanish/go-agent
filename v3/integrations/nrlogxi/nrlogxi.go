@@ -9,7 +9,7 @@ package nrlogxi
 
 import (
 	log "github.com/mgutz/logxi/v1"
-	"github.com/newrelic/go-agent/v3/internal"
+	"github.com/Umanish/go-agent/v3/internal"
 	newrelic "github.com/newrelic/go-agent/v3/newrelic"
 )
 

@@ -14,7 +14,7 @@ import (
 	"google.golang.org/grpc/test/bufconn"
 
 	"github.com/newrelic/go-agent/v3/integrations/nrgrpc/testapp"
-	"github.com/newrelic/go-agent/v3/internal"
+	"github.com/Umanish/go-agent/v3/internal"
 	"github.com/newrelic/go-agent/v3/newrelic"
 )
 

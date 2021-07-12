@@ -8,7 +8,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/newrelic/go-agent/v3/internal/utilization"
+	"github.com/Umanish/go-agent/v3/internal/utilization"
 	newrelic "github.com/newrelic/go-agent/v3/newrelic"
 )
 

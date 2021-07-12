@@ -1,7 +1,6 @@
-module github.com/newrelic/go-agent/v3/integrations/nrgraphgophers
+module github.com/Umanish/go-agent/v3/integrations/nrgraphgophers
 
 // As of Jan 2020, the graphql-go go.mod file uses 1.13:
-// https://github.com/graph-gophers/graphql-go/blob/master/go.mod
 go 1.13
 
 require (

@@ -9,7 +9,7 @@ import (
 	"os"
 
 	"github.com/newrelic/go-agent"
-	"github.com/newrelic/go-agent/internal/utilization"
+	"github.com/Umanish/go-agent/internal/utilization"
 )
 
 func main() {

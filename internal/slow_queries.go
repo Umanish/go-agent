@@ -9,7 +9,7 @@ import (
 	"hash/fnv"
 	"time"
 
-	"github.com/newrelic/go-agent/internal/jsonx"
+	"github.com/Umanish/go-agent/internal/jsonx"
 )
 
 type queryParameters map[string]interface{}

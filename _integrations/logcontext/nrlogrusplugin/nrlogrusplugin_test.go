@@ -13,9 +13,9 @@ import (
 	"time"
 
 	newrelic "github.com/newrelic/go-agent"
-	"github.com/newrelic/go-agent/internal"
-	"github.com/newrelic/go-agent/internal/integrationsupport"
-	"github.com/newrelic/go-agent/internal/sysinfo"
+	"github.com/Umanish/go-agent/internal"
+	"github.com/Umanish/go-agent/internal/integrationsupport"
+	"github.com/Umanish/go-agent/internal/sysinfo"
 	"github.com/sirupsen/logrus"
 )
 
