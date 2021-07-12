@@ -1,4 +1,4 @@
-module github.com/newrelic/go-agent/v3/integrations/nrpkgerrors
+module github.com/Umanish/go-agent/v3/integrations/nrpkgerrors
 
 // As of Dec 2019, 1.11 is the earliest version of Go tested by pkg/errors:
 // https://github.com/pkg/errors/blob/master/.travis.yml

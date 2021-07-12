@@ -1,4 +1,4 @@
-module github.com/newrelic/go-agent/v3/integrations/nrstan/test
+module github.com/Umanish/go-agent/v3/integrations/nrstan/test
 
 // This module exists to avoid a dependency on
 // github.com/nats-io/nats-streaming-server in nrstan.

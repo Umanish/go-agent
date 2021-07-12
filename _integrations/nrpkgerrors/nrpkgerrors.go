@@ -12,7 +12,7 @@ import (
 	"fmt"
 
 	newrelic "github.com/newrelic/go-agent"
-	"github.com/newrelic/go-agent/internal"
+	"github.com/Umanish/go-agent/internal"
 	"github.com/pkg/errors"
 )
 

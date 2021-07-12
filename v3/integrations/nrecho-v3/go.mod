@@ -1,4 +1,4 @@
-module github.com/newrelic/go-agent/v3/integrations/nrecho-v3
+module github.com/Umanish/go-agent/v3/integrations/nrecho-v3
 
 // 1.7 is the earliest version of Go tested by v3.1.0:
 // https://github.com/labstack/echo/blob/v3.1.0/.travis.yml

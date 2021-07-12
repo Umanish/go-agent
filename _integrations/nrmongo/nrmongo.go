@@ -36,7 +36,7 @@ import (
 	"sync"
 
 	newrelic "github.com/newrelic/go-agent"
-	"github.com/newrelic/go-agent/internal"
+	"github.com/Umanish/go-agent/internal"
 	"go.mongodb.org/mongo-driver/event"
 )
 

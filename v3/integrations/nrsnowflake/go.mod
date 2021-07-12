@@ -1,4 +1,4 @@
-module github.com/newrelic/go-agent/v3/integrations/nrsnowflake
+module github.com/Umanish/go-agent/v3/integrations/nrsnowflake
 
 // snowflakedb/gosnowflake says it requires 1.12 but builds on 1.10
 go 1.10

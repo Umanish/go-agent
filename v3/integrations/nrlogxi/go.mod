@@ -1,4 +1,4 @@
-module github.com/newrelic/go-agent/v3/integrations/nrlogxi
+module github.com/Umanish/go-agent/v3/integrations/nrlogxi
 
 // As of Dec 2019, logxi requires 1.3+:
 // https://github.com/mgutz/logxi#requirements

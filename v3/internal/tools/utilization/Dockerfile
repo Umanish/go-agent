@@ -19,4 +19,4 @@ RUN mkdir -p $GOPATH/src/github.com/newrelic/go-agent/
 
 COPY . $GOPATH/src/github.com/newrelic/go-agent/
 
-CMD go run ${GOPATH}/src/github.com/newrelic/go-agent/internal/tools/utilization/main.go
+CMD go run ${GOPATH}/src/github.com/Umanish/go-agent/internal/tools/utilization/main.go

@@ -1,7 +1,7 @@
 // This sqlx example is a separate module to avoid adding sqlx dependency to the
 // nrpq go.mod file.
 
-module github.com/newrelic/go-agent/v3/integrations/nrpq/example/sqlx
+module github.com/Umanish/go-agent/v3/integrations/nrpq/example/sqlx
 
 go 1.13
 

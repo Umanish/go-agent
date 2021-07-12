@@ -1,4 +1,4 @@
-module github.com/newrelic/go-agent/v3/integrations/nrstan/examples
+module github.com/Umanish/go-agent/v3/integrations/nrstan/examples
 
 // This module exists to avoid a dependency on nrnrats.
 

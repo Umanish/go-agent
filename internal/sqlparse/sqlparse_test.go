@@ -7,7 +7,7 @@ import (
 	"testing"
 
 	newrelic "github.com/newrelic/go-agent"
-	"github.com/newrelic/go-agent/internal/crossagent"
+	"github.com/Umanish/go-agent/internal/crossagent"
 )
 
 type sqlTestcase struct {

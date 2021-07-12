@@ -1,4 +1,4 @@
-module github.com/newrelic/go-agent/v3/integrations/nrawssdk-v2
+module github.com/Umanish/go-agent/v3/integrations/nrawssdk-v2
 
 // As of May 2021, the aws-sdk-go-v2 go.mod file uses 1.15:
 // https://github.com/aws/aws-sdk-go-v2/blob/master/go.mod
