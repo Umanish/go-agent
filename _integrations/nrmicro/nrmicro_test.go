@@ -21,8 +21,8 @@ import (
 	"github.com/micro/go-micro/server"
 	newrelic "github.com/newrelic/go-agent"
 	proto "github.com/newrelic/go-agent/_integrations/nrmicro/example/proto"
-	"github.com/newrelic/go-agent/internal"
-	"github.com/newrelic/go-agent/internal/integrationsupport"
+	"github.com/Umanish/go-agent/internal"
+	"github.com/Umanish/go-agent/internal/integrationsupport"
 )
 
 const (

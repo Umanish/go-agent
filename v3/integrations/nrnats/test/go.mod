@@ -1,4 +1,4 @@
-module github.com/newrelic/go-agent/v3/integrations/test
+module github.com/Umanish/go-agent/v3/integrations/test
 
 // This module exists to avoid having extra nrnats module dependencies.
 

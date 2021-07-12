@@ -1,4 +1,4 @@
-module github.com/newrelic/go-agent/v3/integrations/nrhttprouter
+module github.com/Umanish/go-agent/v3/integrations/nrhttprouter
 
 // As of Dec 2019, the httprouter go.mod file uses 1.7:
 // https://github.com/julienschmidt/httprouter/blob/master/go.mod

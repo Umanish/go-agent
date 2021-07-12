@@ -1,4 +1,4 @@
-module github.com/newrelic/go-agent/v3/integrations/nrredis-v7
+module github.com/Umanish/go-agent/v3/integrations/nrredis-v7
 
 // As of Jan 2020, go 1.11 is in the go-redis go.mod file:
 // https://github.com/go-redis/redis/blob/master/go.mod

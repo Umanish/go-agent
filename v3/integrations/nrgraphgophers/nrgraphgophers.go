@@ -12,9 +12,9 @@ import (
 	"context"
 	"sync"
 
-	"github.com/graph-gophers/graphql-go/errors"
-	"github.com/graph-gophers/graphql-go/introspection"
-	"github.com/graph-gophers/graphql-go/trace"
+	"github.com/tokopedia/graphql-go/errors"
+	"github.com/tokopedia/graphql-go/introspection"
+	"github.com/tokopedia/graphql-go/trace"
 	"github.com/newrelic/go-agent/v3/internal"
 	"github.com/newrelic/go-agent/v3/newrelic"
 )

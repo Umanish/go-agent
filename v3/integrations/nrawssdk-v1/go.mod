@@ -1,4 +1,4 @@
-module github.com/newrelic/go-agent/v3/integrations/nrawssdk-v1
+module github.com/Umanish/go-agent/v3/integrations/nrawssdk-v1
 
 // As of Dec 2019, aws-sdk-go's go.mod does not specify a Go version.  1.6 is
 // the earliest version of Go tested by aws-sdk-go's CI:

@@ -1,4 +1,4 @@
-module github.com/newrelic/go-agent/v3/integrations/nrecho-v4
+module github.com/Umanish/go-agent/v3/integrations/nrecho-v4
 
 // As of Dec 2019, the echo go.mod file uses 1.12:
 // https://github.com/labstack/echo/blob/master/go.mod

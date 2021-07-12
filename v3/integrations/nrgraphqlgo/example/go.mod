@@ -1,4 +1,4 @@
-module github.com/newrelic/go-agent/v3/integrations/nrgraphqlgo/example
+module github.com/Umanish/go-agent/v3/integrations/nrgraphqlgo/example
 
 go 1.13
 

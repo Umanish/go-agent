@@ -1,4 +1,4 @@
-module github.com/newrelic/go-agent/v3/integrations/nrgin
+module github.com/Umanish/go-agent/v3/integrations/nrgin
 
 // As of Dec 2019, the gin go.mod file uses 1.12:
 // https://github.com/gin-gonic/gin/blob/master/go.mod
