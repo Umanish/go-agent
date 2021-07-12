@@ -13,7 +13,7 @@ import (
 	"sync"
 
 	"github.com/Umanish/go-agent/v3/internal"
-	"github.com/newrelic/go-agent/v3/newrelic"
+	"github.com/Umanish/go-agent/v3/newrelic"
 	"github.com/tokopedia/graphql-go/errors"
 	"github.com/tokopedia/graphql-go/introspection"
 	"github.com/tokopedia/graphql-go/trace"
