@@ -13,7 +13,7 @@ import (
 
 	"github.com/Umanish/go-agent/v3/internal"
 	"github.com/Umanish/go-agent/v3/internal/integrationsupport"
-	"github.com/newrelic/go-agent/v3/newrelic"
+	"github.com/Umanish/go-agent/v3/newrelic"
 	graphql "github.com/tokopedia/graphql-go"
 	"github.com/tokopedia/graphql-go/introspection"
 	"github.com/tokopedia/graphql-go/relay"

@@ -12,11 +12,11 @@ import (
 	"context"
 	"sync"
 
+	"github.com/newrelic/go-agent/v3/internal"
+	"github.com/newrelic/go-agent/v3/newrelic"
 	"github.com/tokopedia/graphql-go/errors"
 	"github.com/tokopedia/graphql-go/introspection"
 	"github.com/tokopedia/graphql-go/trace"
-	"github.com/newrelic/go-agent/v3/internal"
-	"github.com/newrelic/go-agent/v3/newrelic"
 )
 
 func init() { internal.TrackUsage("integration", "framework", "graph-gophers") }
